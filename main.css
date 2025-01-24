@@ -52,12 +52,12 @@ nav > ul {
     /* height: 30vh;
     margin: auto; */
 }
-.hero-sec-child {
+/* .hero-sec-child {
     text-align: center;
     background-color: white;
     width: 35%;
 
-}
+} */
 
 
 
@@ -76,4 +76,17 @@ nav > ul {
     color: #08143E;
     font-size: 1.5rem;
     font-weight: bold;
+}
+
+
+/* footer */
+
+.footer-sec {
+    background-color: #283646;
+    color: white;
+    padding: 1rem;
+}
+
+.footer-header {
+    color: #3A86FF;
 }
